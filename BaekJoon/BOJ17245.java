@@ -19,7 +19,11 @@ public class Main {
                 sum+=grid[i][j];
             }
         }
+        Map<Integer,Integer> map = new HashMap<>();
+        map.forEach((key,value)->{
 
+        });
+        map.containsKey()
         long left = 0;
         long right = sum+1;
         long ans = 0;
@@ -32,6 +36,8 @@ public class Main {
                 left = mid+1;
             }
         }
+        Map<Integer,Integer> map = new HashMap<>();
+        map.si
         System.out.println(ans);
     }
 
