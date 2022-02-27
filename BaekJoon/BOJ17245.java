@@ -5,7 +5,7 @@ import java.util.*;
 public class Main {
 
     static int N;
-
+    static List<Integer> ans = new ArrayList<>();
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
