@@ -14,7 +14,7 @@
 
 <br>
 
-![process_image](/images/프로세스메모리.png)
+![process_image](https://github.com/kky0426/TIL/blob/master/CS/images/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A9%94%EB%AA%A8%EB%A6%AC.png?raw=true)
 
 * 프로세스는 각각 독립된 메모리 영역을 할당받는다
 * 프로세스는 최소 1개의 스레드(메인 스레드)를 가지고 있다
@@ -26,6 +26,6 @@
 * 프로세스 내에서 실행되는 흐름의 단위
 * 프로세스가 할당받은 자원을 이용하는 실행의 단위
 
-![thread_image](/images/스레드메모리.png)
+![thread_image](https://github.com/kky0426/TIL/blob/master/CS/images/%EC%8A%A4%EB%A0%88%EB%93%9C%EB%A9%94%EB%AA%A8%EB%A6%AC.png?raw=true)
 * 스레드는 각각의 PC register 와 stack 을 갖고있다.
 * 스레드는 프로세스의 code,data,heap 영역을 공유한다.
