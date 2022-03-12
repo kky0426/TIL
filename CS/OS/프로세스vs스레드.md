@@ -13,7 +13,7 @@
 
 
 <br>
-
+![img](https://github.com/kky0426/TIL/blob/master/CS/images/%EC%8A%A4%EB%A0%88%EB%93%9C%EB%A9%94%EB%AA%A8%EB%A6%AC.png?raw=true)
 ![process_image](/images/프로세스메모리.png)
 
 * 프로세스는 각각 독립된 메모리 영역을 할당받는다
