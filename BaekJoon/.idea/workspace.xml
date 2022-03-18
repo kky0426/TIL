@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7b44789-54cd-4a56-9d17-4372d8dfcb9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/BOJ.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BaekJoon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BaekJoon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f7b44789-54cd-4a56-9d17-4372d8dfcb9d" name="Changes" comment="class name 변경">
+      <change afterPath="$PROJECT_DIR$/BOJ20922.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +10,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1z2iebWrScY3tlISe1XVmDJtxhP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,9 +39,16 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.BOJ2666">
+  <component name="RunManager" selected="Application.BOJ20922">
     <configuration name="BOJ17245" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BOJ17245" />
+      <module name="BaekJoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ20922" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ20922" />
       <module name="BaekJoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -52,9 +65,11 @@
       <item itemvalue="Application.BOJ17245" />
       <item itemvalue="Application.BOJ" />
       <item itemvalue="Application.BOJ2666" />
+      <item itemvalue="Application.BOJ20922" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ20922" />
         <item itemvalue="Application.BOJ2666" />
       </list>
     </recent_temporary>
@@ -73,6 +88,7 @@
       <workItem from="1635768436212" duration="598000" />
       <workItem from="1638539053222" duration="5000" />
       <workItem from="1638539078811" duration="113000" />
+      <workItem from="1647615636011" duration="810000" />
     </task>
     <task id="LOCAL-00001" summary="class name 변경">
       <created>1647612143228</created>
@@ -81,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647612143228</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="class name 변경">
+      <created>1647612406006</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647612406006</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
