@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class Main {
+public class BOJ2666 {
 
     static int ans = Integer.MAX_VALUE;
     static int[] closet;

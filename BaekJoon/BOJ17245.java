@@ -1,11 +1,12 @@
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class Main {
+class BOJ17245 {
 
     static int N;
-    static List<Integer> ans = new ArrayList<>();
+
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
@@ -19,11 +20,7 @@ public class Main {
                 sum+=grid[i][j];
             }
         }
-        Map<Integer,Integer> map = new HashMap<>();
-        map.forEach((key,value)->{
 
-        });
-        map.containsKey()
         long left = 0;
         long right = sum+1;
         long ans = 0;
@@ -36,8 +33,6 @@ public class Main {
                 left = mid+1;
             }
         }
-        Map<Integer,Integer> map = new HashMap<>();
-        map.si
         System.out.println(ans);
     }
 
