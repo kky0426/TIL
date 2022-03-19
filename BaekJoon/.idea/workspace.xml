@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7b44789-54cd-4a56-9d17-4372d8dfcb9d" name="Changes" comment="class name 변경">
-      <change afterPath="$PROJECT_DIR$/BOJ20922.java" afterDir="false" />
+    <list default="true" id="f7b44789-54cd-4a56-9d17-4372d8dfcb9d" name="Changes" comment="BOJ20922 겹치는 건 싫어 - 투포인터">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +38,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.BOJ20922">
+  <component name="RunManager" selected="Application.temp">
     <configuration name="BOJ17245" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BOJ17245" />
       <module name="BaekJoon" />
@@ -61,14 +60,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="temp" />
+      <module name="BaekJoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.BOJ17245" />
       <item itemvalue="Application.BOJ" />
       <item itemvalue="Application.BOJ2666" />
       <item itemvalue="Application.BOJ20922" />
+      <item itemvalue="Application.temp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.temp" />
         <item itemvalue="Application.BOJ20922" />
         <item itemvalue="Application.BOJ2666" />
       </list>
@@ -89,6 +97,7 @@
       <workItem from="1638539053222" duration="5000" />
       <workItem from="1638539078811" duration="113000" />
       <workItem from="1647615636011" duration="810000" />
+      <workItem from="1647663296020" duration="7631000" />
     </task>
     <task id="LOCAL-00001" summary="class name 변경">
       <created>1647612143228</created>
